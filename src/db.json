@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jerry",
+      "email": "jerry@example.com",
+      "age": 34
+    },
+    {
+      "id": "2",
+      "name": "Sarah",
+      "email": "sarah@example.com",
+      "age": 54
+    },
+    {
+      "id": "3",
+      "name": "Jessica",
+      "email": "jessica@example.com",
+      "age": 21
+    }
+  ],
+  "players": [
+    { "name": "MacKinnon", "position": "C" },
+    { "name": "Rantanen", "position": "RW" },
+    { "name": "Makar", "position": "D" },
+    { "name": "Nichushkin", "position": "LW" }
+  ]
+}
